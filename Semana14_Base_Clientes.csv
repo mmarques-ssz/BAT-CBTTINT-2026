@@ -1,0 +1,71 @@
+﻿Cliente,Idade,Cidade de origem,UF,Perfil de viagem,Canal de captação,Interesse principal,Nº de viagens (últ. ano),Ticket médio (R$),Data da última compra,Meses desde a última compra
+Cliente 001 — Diego Cardoso,63,Vitória,ES,Família,Redes sociais,Praia e relaxamento,3,2170,03/03/2026,8.6
+Cliente 002 — Olivia Carvalho,44,Rio de Janeiro,RJ,Terceira idade,Redes sociais,Cultura e história,3,2840,06/07/2026,4.5
+Cliente 003 — Elisa Costa,54,Londrina,PR,Família,Indicação,Praia e relaxamento,1,3250,06/09/2026,2.5
+Cliente 004 — Gabriela Carvalho,44,Manaus,AM,Terceira idade,Indicação,Gastronomia,1,3360,15/02/2026,9.1
+Cliente 005 — Fábio Santos,66,Goiânia,GO,Terceira idade,Redes sociais,Turismo de compras,4,1970,04/09/2026,2.5
+Cliente 006 — Queila Nascimento,25,Rio de Janeiro,RJ,Grupo de amigos,Indicação,Aventura/Ecoturismo,1,1600,04/07/2026,4.6
+Cliente 007 — Sandra Oliveira,46,Goiânia,GO,Casal,Agência parceira,Praia e relaxamento,3,2530,22/10/2026,1
+Cliente 008 — Isabela Rocha,44,Curitiba,PR,Família,Agência parceira,Gastronomia,1,2710,08/09/2026,2.4
+Cliente 009 — Sandra Martins,20,Recife,PE,Casal,Feira/evento,Gastronomia,3,2370,30/08/2026,2.7
+Cliente 010 — Queila Rodrigues,21,Belém,PA,Família,Indicação,Gastronomia,4,2650,09/11/2026,0.4
+Cliente 011 — Ana Monteiro,51,Porto Alegre,RS,Grupo de amigos,Redes sociais,Turismo de compras,3,1280,02/11/2025,12.6
+Cliente 012 — Gabriela Silva,33,Londrina,PR,Casal,Site próprio,Turismo de compras,2,2160,06/03/2026,8.5
+Cliente 013 — Ximena Fernandes,21,Belém,PA,Terceira idade,Site próprio,Turismo de compras,5,2600,13/07/2026,4.3
+Cliente 014 — Mariana Almeida,43,Belém,PA,Terceira idade,Redes sociais,Turismo de compras,4,2140,17/03/2026,8.1
+Cliente 015 — Ursula Gomes,49,Florianópolis,SC,Grupo de amigos,Indicação,Aventura/Ecoturismo,2,1620,13/04/2026,7.3
+Cliente 016 — Gabriela Nascimento,50,Brasília,DF,Casal,Agência parceira,Praia e relaxamento,1,2760,13/08/2026,3.3
+Cliente 017 — Rafael Gomes,45,Niterói,RJ,Casal,Site próprio,Gastronomia,2,2070,24/03/2026,7.9
+Cliente 018 — Ursula Fernandes,57,Belém,PA,Solo,Agência parceira,Aventura/Ecoturismo,3,1600,27/10/2026,0.8
+Cliente 019 — Caio Fernandes,22,Belém,PA,Família,Indicação,Aventura/Ecoturismo,4,2380,02/11/2026,0.6
+Cliente 020 — Beatriz Costa,23,São Paulo,SP,Terceira idade,Agência parceira,Cultura e história,5,3200,20/01/2026,10
+Cliente 021 — Zeca Rocha,64,Vitória,ES,Grupo de amigos,Redes sociais,Aventura/Ecoturismo,2,1070,09/01/2026,10.3
+Cliente 022 — Ana Alves,69,Curitiba,PR,Família,Indicação,Aventura/Ecoturismo,1,2090,19/08/2026,3.1
+Cliente 023 — Ximena Araújo,20,Londrina,PR,Família,Feira/evento,Praia e relaxamento,3,2740,25/07/2026,3.9
+Cliente 024 — Ana Oliveira,47,Florianópolis,SC,Família,Feira/evento,Turismo de compras,4,1920,01/02/2026,9.6
+Cliente 025 — Gabriela Silva,43,Goiânia,GO,Família,Feira/evento,Praia e relaxamento,1,2590,31/03/2026,7.7
+Cliente 026 — Isabela Oliveira,34,Santos,SP,Família,Feira/evento,Gastronomia,1,1970,25/11/2025,11.8
+Cliente 027 — Thiago Lima,68,Fortaleza,CE,Casal,Indicação,Gastronomia,1,2920,12/08/2026,3.3
+Cliente 028 — Olivia Rodrigues,43,Rio de Janeiro,RJ,Família,Site próprio,Turismo de compras,3,2180,28/08/2026,2.8
+Cliente 029 — Bruno Costa,58,Brasília,DF,Solo,Redes sociais,Praia e relaxamento,4,1680,07/10/2026,1.4
+Cliente 030 — Bruno Ribeiro,20,Porto Alegre,RS,Casal,Redes sociais,Gastronomia,3,1850,16/04/2026,7.2
+Cliente 031 — Zeca Silva,32,Vitória,ES,Terceira idade,Feira/evento,Aventura/Ecoturismo,2,2000,04/08/2026,3.5
+Cliente 032 — Sandra Rocha,71,Cuiabá,MT,Terceira idade,Site próprio,Cultura e história,5,3550,05/07/2026,4.5
+Cliente 033 — Nelson Santos,19,Campinas,SP,Família,Redes sociais,Cultura e história,2,2250,29/03/2026,7.8
+Cliente 034 — Diego Ribeiro,66,Curitiba,PR,Casal,Agência parceira,Gastronomia,1,2340,27/10/2026,0.8
+Cliente 035 — Wesley Alves,71,Curitiba,PR,Solo,Site próprio,Aventura/Ecoturismo,5,1350,12/02/2026,9.2
+Cliente 036 — Gabriela Alves,24,Niterói,RJ,Família,Agência parceira,Cultura e história,1,2880,26/04/2026,6.8
+Cliente 037 — Caio Alves,56,Curitiba,PR,Solo,Indicação,Praia e relaxamento,2,2320,09/08/2026,3.4
+Cliente 038 — Queila Oliveira,60,Salvador,BA,Família,Redes sociais,Aventura/Ecoturismo,3,1240,21/10/2026,1
+Cliente 039 — Ursula Fernandes,21,Belém,PA,Casal,Indicação,Gastronomia,5,2650,20/10/2026,1
+Cliente 040 — Lucas Ribeiro,63,Belo Horizonte,MG,Solo,Site próprio,Cultura e história,1,2270,28/09/2026,1.7
+Cliente 041 — Rafael Gomes,28,Belém,PA,Terceira idade,Agência parceira,Turismo de compras,3,2780,25/03/2026,7.9
+Cliente 042 — Fábio Santos,35,Curitiba,PR,Terceira idade,Site próprio,Turismo de compras,2,2280,17/09/2026,2.1
+Cliente 043 — Hugo Silva,31,Porto Alegre,RS,Família,Feira/evento,Aventura/Ecoturismo,2,1500,22/03/2026,8
+Cliente 044 — Bruno Nascimento,71,Belo Horizonte,MG,Solo,Agência parceira,Aventura/Ecoturismo,5,1310,15/09/2026,2.2
+Cliente 045 — Ximena Souza,50,Niterói,RJ,Casal,Redes sociais,Gastronomia,2,1770,02/03/2026,8.6
+Cliente 046 — Eduardo Santos,50,Recife,PE,Solo,Feira/evento,Aventura/Ecoturismo,3,1390,30/06/2026,4.7
+Cliente 047 — Karina Alves,23,São Paulo,SP,Terceira idade,Site próprio,Cultura e história,2,3350,08/08/2026,3.4
+Cliente 048 — Yasmin Carvalho,19,Recife,PE,Casal,Indicação,Turismo de compras,3,2190,27/03/2026,7.8
+Cliente 049 — Yasmin Ribeiro,49,Fortaleza,CE,Casal,Agência parceira,Gastronomia,5,2410,09/02/2026,9.3
+Cliente 050 — Isabela Fernandes,30,São Paulo,SP,Terceira idade,Redes sociais,Praia e relaxamento,1,2200,19/10/2025,13
+Cliente 051 — Ursula Rocha,61,Campinas,SP,Casal,Indicação,Praia e relaxamento,1,2570,06/11/2025,12.5
+Cliente 052 — Caio Costa,57,Uberlândia,MG,Família,Site próprio,Praia e relaxamento,3,2360,25/02/2026,8.8
+Cliente 053 — Karina Oliveira,51,Uberlândia,MG,Grupo de amigos,Indicação,Aventura/Ecoturismo,5,2050,20/09/2026,2
+Cliente 054 — Rafael Gomes,28,Campinas,SP,Terceira idade,Feira/evento,Cultura e história,4,3200,15/05/2026,6.2
+Cliente 055 — Ursula Alves,49,São Paulo,SP,Grupo de amigos,Indicação,Aventura/Ecoturismo,4,1620,25/10/2025,12.8
+Cliente 056 — Ursula Pereira,25,Porto Alegre,RS,Terceira idade,Feira/evento,Cultura e história,2,3390,26/02/2026,8.8
+Cliente 057 — Fábio Almeida,37,Londrina,PR,Casal,Agência parceira,Gastronomia,2,2430,12/01/2026,10.2
+Cliente 058 — Hugo Nascimento,49,Belo Horizonte,MG,Grupo de amigos,Agência parceira,Aventura/Ecoturismo,3,1570,04/07/2026,4.6
+Cliente 059 — Nelson Araújo,60,Porto Alegre,RS,Solo,Redes sociais,Gastronomia,1,1240,02/07/2026,4.6
+Cliente 060 — Queila Almeida,20,Belém,PA,Família,Redes sociais,Aventura/Ecoturismo,1,1390,08/04/2026,7.4
+Cliente 061 — Yasmin Araújo,57,Goiânia,GO,Solo,Feira/evento,Gastronomia,2,1610,13/10/2026,1.2
+Cliente 062 — Zeca Alves,43,Recife,PE,Família,Redes sociais,Praia e relaxamento,1,2080,30/09/2025,13.7
+Cliente 063 — Isabela Alves,37,Brasília,DF,Família,Feira/evento,Praia e relaxamento,4,2120,12/02/2026,9.2
+Cliente 064 — Mariana Araújo,26,Florianópolis,SC,Grupo de amigos,Site próprio,Aventura/Ecoturismo,3,1660,19/10/2026,1.1
+Cliente 065 — Karina Rocha,64,Brasília,DF,Grupo de amigos,Redes sociais,Aventura/Ecoturismo,5,1070,16/04/2026,7.2
+Cliente 066 — Karina Alves,71,Porto Alegre,RS,Casal,Indicação,Cultura e história,1,3360,11/03/2026,8.3
+Cliente 067 — Ana Lima,60,Recife,PE,Família,Site próprio,Cultura e história,2,2750,05/10/2025,13.5
+Cliente 068 — Queila Costa,31,Goiânia,GO,Solo,Site próprio,Turismo de compras,5,1650,27/08/2026,2.8
+Cliente 069 — Beatriz Santos,25,Belém,PA,Família,Indicação,Turismo de compras,2,2660,04/08/2026,3.5
+Cliente 070 — Olivia Silva,55,Londrina,PR,Solo,Redes sociais,Cultura e história,4,1730,10/03/2026,8.4
